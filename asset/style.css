@@ -165,7 +165,7 @@ html{
     position: relative;
     margin-top:60px;
     padding-top:50%; /*50% của width trình duyệt web */
-    background: url(./asset/img/slide1.jpg) top center / cover no-repeat;
+    background: url(../asset/img/slide1.jpg) top center / cover no-repeat;
 }
 #slider_content{
     position: absolute;
